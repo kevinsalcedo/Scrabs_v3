@@ -15,6 +15,7 @@
 		FF0A76732140383200C0F722 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FF0A76712140383200C0F722 /* LaunchScreen.storyboard */; };
 		FF0A767E2140383200C0F722 /* Scrabs_v3Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF0A767D2140383200C0F722 /* Scrabs_v3Tests.swift */; };
 		FF0A76892140383200C0F722 /* Scrabs_v3UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF0A76882140383200C0F722 /* Scrabs_v3UITests.swift */; };
+		FF0A769721403DA200C0F722 /* OTCWL2014.txt in Resources */ = {isa = PBXBuildFile; fileRef = FF0A769621403DA200C0F722 /* OTCWL2014.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		FF0A76842140383200C0F722 /* Scrabs_v3UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Scrabs_v3UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FF0A76882140383200C0F722 /* Scrabs_v3UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Scrabs_v3UITests.swift; sourceTree = "<group>"; };
 		FF0A768A2140383200C0F722 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FF0A769621403DA200C0F722 /* OTCWL2014.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = OTCWL2014.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 		FF0A76642140382F00C0F722 /* Scrabs_v3 */ = {
 			isa = PBXGroup;
 			children = (
+				FF0A769621403DA200C0F722 /* OTCWL2014.txt */,
 				FF0A76652140382F00C0F722 /* AppDelegate.swift */,
 				FF0A76672140382F00C0F722 /* ViewController.swift */,
 				FF0A76692140382F00C0F722 /* Main.storyboard */,
@@ -232,6 +235,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FF0A769721403DA200C0F722 /* OTCWL2014.txt in Resources */,
 				FF0A76732140383200C0F722 /* LaunchScreen.storyboard in Resources */,
 				FF0A76702140383200C0F722 /* Assets.xcassets in Resources */,
 				FF0A766B2140382F00C0F722 /* Main.storyboard in Resources */,
